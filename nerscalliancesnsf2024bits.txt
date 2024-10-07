@@ -1,0 +1,121 @@
+Started 7 October 2024
+NSERC Alliance
+Form 100A which is basically your NSERC Discovery ...
+https://www.nserc-crsng.gc.ca/OnlineServices-ServicesEnLigne/instructions/100/100A_eng.asp
+
+<><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+<> Contributions to research and training explanation <> 
+<><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+
+
+<><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+Subsection: Most significant contributions to research (9000 char)
+<><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+
+BELOW is copied from NSERC 2023 and is about 6400 char
+
+Numbers given parenthetically refer to my peer-reviewed publications as given in my CCV (asterisks after names on my CCV denote lab trainees).
+
+HIGHLIGHTS: 
+
+33 peer-reviewed publications in last 6 years (of which I am senior or first-author on 28), the majority in journals with impact factors of 10 or higher. 
+
+Of those, 21 led (first-author) by lab students or postdocs and 5 led by me. 
+
+Includes 4 in Nature Climate Change, 2 in PNAS, 6 in New Phytologist overall with the lab's collaborative team meta-analysis (see also HQP awards and research contributions section) producing publications of 1 Nature Climate Change paper, 2 New Phytologist, 1 Global Change Biology, with 1 additional Nature Climate Change paper in requested revision. 
+
+1. Temporal community assembly
+
+I have defined and helped lead the field of temporal ecology, focused on the fundamental question of how time structures populations, communities and ecosystems. My papers on this topic in 2014 and 2012  (`Temporal ecology in the Anthropocene' and `The phenology of plant invasions: a community ecology perspective') have been cornerstones of this new subdiscipline and continue to be cited 40-50 times each in recent years. Over the last 6 years I have extended community assembly theory to include phenology; I showed that phenological `tracking' (how well species shift their phenology in response to environmental variation) must trade-off with other traits for stable communities, and that environmental change can reshape the balance of equalizing versus stabilizing mechanisms (14). For this work, my lab adapted the storage effect model to include environmental tracking and non-stationary environments (environments that shift over time), and we continue developing it to guide our research. Most recently, we used it to design experiments that estimated the effect of phenological advantage to invader success relative to other forms of competition (8). We also showed that the high phenological tracking of non-native species compared to native species appears in their home range, and thus less likely to have evolved after invasion (15). For forest communities, we have focused on understanding how shifting disturbance regimes---especially late spring frosts---are shifting with climate change (30), and may thus favor certain species (16-17).
+
+
+2. Phenological cues in North American forests and globally
+
+My lab's work has focused especially on estimating the cues that underlie spring phenology---chilling (associated with cool winter temperatures), forcing (associated with warm spring temperatures) and photoperiod---and how they vary across species and space. My lab has become a global leader in this area, which is critical for forecasting shifts in plants, and other species and ecosystem services that depend on them. In addition to publishing one of the largest experiments ever on this topic (34), we conducted a meta-analysis of all similar published studies to show that most species have all three cues, making forecasting---as both winters and spring warm---more complex (20,24). While this work and much of the field has focused on spring budburst and leafout, many woody species flower before they leaf, which adds further complexity to how climate change will alter species fitness (21). My lab has shown different cues are stronger for flowering and leafing, meaning climate change could re-order these phenological events for some species, with possible cascading consequences for pollination success and gene flow across landscapes (18). 
+
+3. Improved estimates for how species interactions shift with climate change
+
+Uneven shifts in phenology across species, as my lab has repeatedly documented, can mean the synchrony of critical species interactions---such as when birds reproduce compared to the peak of their food (often caterpillars)---may shift. Working with Dr. Heather Kharouba (University of Ottawa) we have led global syntheses to address this question. I developed new Bayesian models, in collaboration with Dr. Andrew Gelman (Columbia University) to show current shifts between species pairs are overall small, but highly variable (33); we recently documented similar findings for how asynchrony affects fitness (6). To understand this, we have worked out the hidden complexity of asynchrony theory, especially when compared to the available data (23). Working together with my PhD student, we have tested the role of species interaction type and phylogeny in determining shifts in synchrony, compiling the largest dataset to date and working with Bayesian statistician, Michael Betancourt, to develop new models thats suggest previous evidence of trophic asynchrony may be driven more by clade-level differences than by trophic levels (1).
+
+4. Building new models and new training in computational field biology
+
+My lab's focus on understanding phenological responses to climate change requires a multi-species and multi-scale approach, which in turn requires nuanced models and careful reproducible methods. Over the last 6 years, since starting at UBC, I have built a lab skilled in these challenges, welcoming a diverse and empowered set of trainees from the undergraduate to postdoc level and training in them in the coding, data management and modeling skills needed. I and my team have made a number of important advances to modeling such complex data including null models for multiple phenological events within a season (35), methods for estimating distinct responses across different clades (28), incorporating intraspecific genetic distances into multi-species models (27) and challenging methods for how we design experiments to tease out interactive effects of temperature and daylength (13,20). Our approach to modeling, which relies on extensive model development and testing through simulated data, has given us a number of unique insights, including that apparently recent `declines' in the temperature sensitivity of phenology could easily be explained by applying an incorrect model to a threshold process (19), and showing that photoperiod responses are remarkably constant across species given a model that properly accounts for species evolutionary history (3).
+
+5. Using phenological diversity to build agricultural resilience
+
+As ecological science rests critically on natural history, my lab maintains a focus on several specific systems, currently forest trees and winegrapes. Given their extensive study and data resources, winegrapes have acted as an important model system for us, allowing us test more complex temperature and phenological models. We have shown how different varieties (e.g., Pinot noir versus Syrah) slow down phenologically in response to high temperatures (26) and to separate out the effect of genotypic and spatial microclimate variation in effecting winter cold hardiness (2). We also have used winegrapes as a case study in how phenological diversity can build agricultural resilience---with important implications for a suite of variety-rich crops (e.g., apples, citrus, etc.) Using winegrapes, my lab was the first to estimate the importance of genetic diversity to mitigating crop losses with climate change (32)---showing that shifting to more heat-tolerant, late-ripening varieties could halve projected losses, potentially saving a third of the world's growing regions (25).
+
+
+
+<><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+Subsection: Additional information on contributions  (3000 char)
+<><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+
+BELOW is copied from NSERC 2023
+
+
+My research program is rooted in ecology, but benefits from significant collaborations with climatology, agriculture, and evolutionary biology; as such authorship conventions vary somewhat across my publications. However, there is coherency in the following:
+
+1) First authorship represent the individual who did the lion's share of the research.
+2) Students or postdocs are always first-author if they did the most work. Senior author is never first unless they did the most work for the research product.
+3) Second and last authorship represent those who also contributed substantially. Since 2013, I have used the place of last authorship to denote senior authorship for myself, and second-author position for the person who contributed the next most after myself and the first author. 
+4) I am heavily involved in all papers on which I am an author. In almost all cases I have helped design the research---including the statistical approaches---outline and write the paper; in addition, I often have helped fund the research and stepped into other roles. While I am often asked to be co-author on papers, I decline authorship on a number of papers, where I am being asked (or expected) to make only small contributions. This explains in part why I am senior or first author on most (90%) of my publications. 
+
+The interdisciplinary nature of my research has led me to submit often to journals that accept cross-field research in climate change such as PNAS, Global Change Biology, Nature Climate Change, New Phytologist as well as journals more focused on ecology when there were few to no colleagues outside of the ecological discipline (e.g., Ecology Letters, Journal of Ecology).
+
+<><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+Subsection: Past contributions to highly qualified personnel training (6000)
+<><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+
+Definitely READ what they want again here: https://www.nserc-crsng.gc.ca/OnlineServices-ServicesEnLigne/instructions/100/100A_eng.asp
+
+BELOW is copied from NSERC 2023
+
+
+1) Training environment
+2) HQP awards and research contributions
+3) Outcomes and skills gained by HQP
+
+
+2 finished PhD students finished with all 4 chapters in high profile journals
+
+Dan: FE, JE, JE, NPH
+Cat: CCE, GCB, NPH x 2
+
+Current PhD has paper under review at Science. 
+
+Postdocs: Ailene has 2 NCC papers, and 1 ELE, 1 NPH, 1 AJB
+Nacho has 1 NCC in revision, 1 PNAS 
+
+Harold: CCE
+Alina: GCB submission 
+Nicole: FEE
+Sophia: Dan's paper
+Sally Gee: AJB paper with Ailene
+Christophe: ASEV
+
+
+5K already .... 
+
+1) Training environment
+My lab is housed in the Forest and Conservation Science department of the Faculty of Forestry at UBC, where we have excellent resources for our proposed studies of plant phenology and growth, and for training in computational methods. With CRC funding my lab runs the The Temporal Ecology Centre for Climate Change Research which has state-of-the-art growth low-temperature chambers to advance our mechanistic understanding, a phenological sampling mobile unit, trait sampling unit and advanced computing resources for our Bayesian approaches.
+
+We're supported more broadly by the wider ecological-evolutionary community at UBC, including our affiliation with the Biodiversity Research Centre, where we regularly attend seminars and host speakers. The BRC also has supported my lab to train others in Bayesian methods, with current funding for statisticians and colleagues, Vianey Leos Barajas and Michael Betancourt, to lead a training in January 2024. I also either offer a course or standing meeting on Bayesian models at least one term per year.
+
+Within this broader UBC community I have built a vibrant, diverse, collaborative and productive lab group where trainees lead almost all research, and will lead the proposed work. No matter their level, students in my lab are trained in a wide variety of skills from collecting, managing and publishing data to asking good questions, designing research and communicating findings. All students learn computational and data/code management best practices. All graduate students learn git, R and Stan (languages for data analysis, managing code and statistical analyses) to tackle data management and analysis, and benefit from my suite of national and international collaborations.
+
+For students at the undergraduate level how deep into these skills they go depends on their length of time in the lab and interest. For example, students working only a couple hours for one to two terms may learn how to ask and present questions from attending lab meetings (lab meetings are weekly during term and occur 1-2 times each month in the summer; there is also a weekly `scrum,' which is 15-30 minutes each week to check in on what each member is doing, share knowledge and troubleshoot problems together). For Honours thesis, NSERC USRA or independent study students I guide students in developing and answering their own question and all Honours/USRA students learn R and analyse their own data, with support from the lab.
+
+I expect MSc and PhD students to develop their own questions and studies, with guidance from me coming more strongly for MSc and early PhD students. For all students, I work with students to design a thesis that will help them on the next step towards their career goal; this also means selecting the appropriate journals and meetings and building the right network for making connections for an academic, government or private sector career path. For postdoctoral fellows, I focus on building depth in skills (especially mentoring students, publishing and presenting work), and focusing on what is needed to obtain their career goal.
+
+As a lab we work regularly on how to support an open, collaborative and diverse lab---one that everyone feels welcome in, but also where we recognize and discuss the barriers to entry and success in our field. In addition to clear guidelines for methods, actions and expectations in the lab, standards for how we treat each other, we routinely discuss new issues that come up, such as discriminatory comments in seminars, the need---or not---for named awards and how to make hiring at all levels more equitable. For hiring, all searches are open and conducted by multiple people in the lab to limit bias and increase our perspectives, we widely advertise and aim to provide a living wage to everyone working in the lab, from the undergraduate to postdoctoral levels.
+
+2) HQP awards and research contributions
+Over the past 6 years my lab has mentored 20 UGs (over half receiving research awards and three co-author or leading papers), 1 MSc, 4 PhDs and 4 postdocs. Postdocs have first-authored papers in high-impact journals including Nature Climate Change, PNAS, New Phytologist and Ecology Letters.
+
+Of the three PhD students of which I am the principal supervisor, all have received multiple awards, and my two PhD students who graduated in 2021-2022 have published all four of their chapters (in New Phytologist, Journal of Ecology, and similar), as well as several co-authored manuscripts from my lab's collaborative meta-analysis. My current PhD student recently finished a Michael Smith award to collect data the Rocky Mountain Biological lab and has a paper in review at Science.
+
+3) Outcomes and skills gained by HQP
+Former trainees routinely tell me that the time they spent in the lab and the skills they gained were pivotal to their career success. My lab has supported four postdoctoral fellows, who are now placed in non-profit conservation, industry and academic positions running their own labs---many leveraging the quantitative skills gained in my labs for their next positions. PhD students have gone onto their preferred next career steps (1 a quantitative scientist at The Nature Conservancy and 1 a postdoctoral fellow).
+
+While the publications from and current positions of former trainees highlight the success of my lab's training program, I also see success in how much previous trainees continue to support the lab. At a lab meeting, over 15 lab members attended with a third of those being previous members who wanted to reconnect and give back. Similarly, previous postdocs, PhD students and technicians regularly contribute to career discussions with the lab over Zoom, help with our open-hiring policy and offer specific expertise by visiting in person.  
