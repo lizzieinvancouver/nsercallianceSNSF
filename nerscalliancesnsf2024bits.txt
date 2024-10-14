@@ -69,6 +69,10 @@ Subsection: Past contributions to highly qualified personnel training (6000)
 
 Definitely READ what they want again here: https://www.nserc-crsng.gc.ca/OnlineServices-ServicesEnLigne/instructions/100/100A_eng.asp
 
+EXTRA from nserc alliance start: 
+ The Temporal Ecology Lab makes sure all take Wilderness First Aid and any other field courses for safety that trainees need. These general rules and the use of ISPs continue for lab work. Computational work and training is carefully shared and managed in the Temporal Ecology Lab through stuff like the meta-analysis. Wolkovich works hard to make sure computational approaches are available to all in the lab, not just the trainees who \emph{think} they can learn such approaches (which is often a biased group) through courses she offers, regular lab meetings focused on a shared computational tasks and inviting visitors who specialize in leveling the playing field for computational ecology. 
+
+
 BELOW is copied from NSERC 2023
 
 
