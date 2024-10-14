@@ -1,6 +1,7 @@
 *synctex.gz
 *.aux
 *.log
+*.out
 *.Rdata
 *.RData
 *.Rda

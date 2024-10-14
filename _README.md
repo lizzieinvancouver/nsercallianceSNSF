@@ -7,6 +7,10 @@ SNSF submitted in spring 2024; see mountrainierlogistics/grants/snsf2024 for mos
 ## Links etc.
 https://www.nserc-crsng.gc.ca/Innovate-Innover/AllianceInternational-AllianceInternational/Apply-Presenter_eng.asp
 
+## To do items
+* Remember to remove links from final PDF (if I use the tex version)
+* Submit an RFIP
+
 ## Parts of app
 1) Personal data form with Common CV attachment (living hell: https://www.nserc-crsng.gc.ca/OnlineServices-ServicesEnLigne/instructions/100/100A_eng.asp)
 2) All the stuff listed here (see nsercalliancesnsf2024.tex): https://www.nserc-crsng.gc.ca/OnlineServices-ServicesEnLigne/instructions/101/allianceinternational_eng.asp
