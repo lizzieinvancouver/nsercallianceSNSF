@@ -32,3 +32,11 @@ Team and Roles from grant: INCLUDES budget info....
 Project partner Wolkovich will mentor the UBC PhD and Masters students, and help coordinate the US seed predation and seed pathogen field and lab work (US field sites are just across the border from Vancouver, where UBC is located). Her extensive experience with hierarchical Bayesian modeling and relevant topics (tree growth, temporal dynamics, evolutionary constraints) will be essential for proposed work, as well as in supporting some logistical aspects of the US field work. 
 
 Base funding to Project partner Wolkovich supports PhD student Xiaomao Wang. We anticipate that an NSERC-Alliance International Collaboration Grant (provided to Canadian collaborators in successful SNF grants, project partner Wolkovich) will provide funding for international team meetings, the UBC Masters student, research assistants for US field and lab work, US dendrometers, and sequencing for US soils. 
+
+## HQP consent
+New forms are ingit/grants/nserc/discover/hqp2024
+
+## How to remove hyperlinks from PDF
+1. Go in to Adobe and click on edit PDF (right side menu)
+2. Click on one of the links (you may need to request 'select all')
+3. Right-click and delete -- they should ALL delete
