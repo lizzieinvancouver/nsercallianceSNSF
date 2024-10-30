@@ -8,8 +8,11 @@ SNSF submitted in spring 2024; see mountrainierlogistics/grants/snsf2024 for mos
 https://www.nserc-crsng.gc.ca/Innovate-Innover/AllianceInternational-AllianceInternational/Apply-Presenter_eng.asp
 
 ## To do items
-* Remember to remove links from final PDF (if I use the tex version)
-* Submit an RFIP
+* Start a new application in the portal, carefully doing ONLY the sections required
+* Remember to remove links from final PDF (if I use the tex version) then put in Word
+* Submit an RFIP (working on it)
+* Triple check the budget matches between excel and online form 
+* Then check the budget matches between online form and justification
 
 ## Parts of app
 1) Personal data form with Common CV attachment (living hell: https://www.nserc-crsng.gc.ca/OnlineServices-ServicesEnLigne/instructions/100/100A_eng.asp)
@@ -40,3 +43,6 @@ New forms are ingit/grants/nserc/discover/hqp2024
 1. Go in to Adobe and click on edit PDF (right side menu)
 2. Click on one of the links (you may need to request 'select all')
 3. Right-click and delete -- they should ALL delete
+The above somehow worked once... but I could not recreate it, so I ended up just removing it at the tex level:
+\hypersetup{nolinks=true} 
+Pretty sure this needs to go AFTER usepackage{hyperref}. Also, I wonder if just deleting hyperref would do the trick?
